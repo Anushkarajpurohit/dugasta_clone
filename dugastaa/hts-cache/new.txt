@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:21:47	307/307	---MC-	200	added ('OK')	text/plain	date:Tue,%2027%20May%202025%2016:51:45%20GMT	https://dugasta.com/robots.txt		(from )
+22:21:47	231181/231181	---MC-	200	added ('OK')	text/html	date:Tue,%2027%20May%202025%2013:18:35%20GMT	https://dugasta.com/	D:/interviewTasks/dugu/dugastaa/dugasta.com/index.html	(from )
